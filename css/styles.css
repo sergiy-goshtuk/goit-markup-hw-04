@@ -364,6 +364,10 @@ padding: 32px 0;
 
 }
 
+.portfolio-li:hover .card-text {
+    transform: translateY(0%);
+}
+
 .portfolio-div {
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
